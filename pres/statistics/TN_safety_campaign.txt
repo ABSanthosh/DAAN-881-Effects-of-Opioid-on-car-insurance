@@ -1,0 +1,2 @@
+ModerateRiskCounties: 1
+EstimatedSavings: 5000.0

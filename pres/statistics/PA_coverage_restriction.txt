@@ -1,0 +1,3 @@
+TotalCounties: 3
+RestrictedCounties: 2
+RestrictedRatio: 0.6666666666666666

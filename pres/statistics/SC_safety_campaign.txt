@@ -1,0 +1,2 @@
+ModerateRiskCounties: 0
+EstimatedSavings: 0.0

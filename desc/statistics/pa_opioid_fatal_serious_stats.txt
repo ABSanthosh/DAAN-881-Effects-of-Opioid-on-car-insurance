@@ -1,0 +1,5 @@
+Total Cases: 14544
+Cases by Year: {2017: 744, 2018: 3132, 2019: 2616, 2020: 2640, 2021: 2808, 2022: 2604}
+Top 10 Counties: {'Juniata County': 1356, 'Bedford County': 1092, 'Erie County': 600, 'Cameron County': 528, 'Adams County': 396, 'Cambria County': 372, 'Crawford County': 360, 'Carbon County': 276, 'Bucks County': 276, 'Bradford County': 216}
+Driver Age Summary: {'count': 14544.0, 'mean': 40.53712871287129, 'std': 19.413826204688984, 'min': 1.0, '25%': 27.0, '50%': 37.0, '75%': 54.0, 'max': 99.0}
+Driver Sex Distribution: {0.0: 9312, 1.0: 5016}

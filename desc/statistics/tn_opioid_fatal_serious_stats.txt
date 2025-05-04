@@ -1,0 +1,5 @@
+Total Cases: 1454
+Cases by Year: {2014: 126, 2015: 150, 2016: 99, 2017: 124, 2018: 146, 2019: 159, 2020: 144, 2021: 207, 2022: 134, 2023: 116, 2024: 49}
+Top 10 Counties: {'Carter County': 179, 'Henry County': 120, 'Haywood County': 89, 'Hamblen County': 79, 'Fayette County': 65, 'Crockett County': 63, 'Lake County': 55, 'Hancock County': 51, 'Decatur County': 47, 'Davidson County': 39}
+Driver Age Summary: {'count': 1067.0, 'mean': 39.38612933458294, 'std': 18.843059613668636, 'min': 0.0, '25%': 28.0, '50%': 39.0, '75%': 53.0, 'max': 89.0}
+Driver Sex Distribution: {0.0: 669, 1.0: 350}

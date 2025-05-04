@@ -1,0 +1,5 @@
+Total Cases: 632
+Cases by Year: {2013: 80, 2014: 65, 2015: 74, 2016: 70, 2017: 50, 2018: 66, 2019: 64, 2020: 57, 2021: 53, 2022: 53}
+Top 10 Counties: {'Lexington County': 95, 'Richland County': 49, 'Greenville County': 47, 'Aiken County': 40, 'York County': 30, 'Anderson County': 27, 'Kershaw County': 23, 'Charleston County': 21, 'Sumter County': 20, 'Darlington County': 20}
+Driver Age Summary: {'count': 629.0, 'mean': 42.314785373608906, 'std': 14.810032346848207, 'min': 15.0, '25%': 30.0, '50%': 42.0, '75%': 54.0, 'max': 85.0}
+Driver Sex Distribution: {0.0: 409, 1.0: 219}
